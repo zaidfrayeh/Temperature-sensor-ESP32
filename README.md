@@ -7,3 +7,7 @@ I used the ESP32 controller with MCP 9701 TEMPERATURE SENSOR
 
 
 
+
+
+https://github.com/zaidfrayeh/Temperature-sensor-ESP32/assets/170974361/d0f61687-5fe9-43dd-a92d-7dc9a07566b4
+
