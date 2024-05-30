@@ -57,9 +57,11 @@ void loop() {
   if (temperature <= 21) {
   
    digitalWrite(orange, HIGH); // Cooler temperatures
+   
   } else if (temperature > 21 && temperature <= 25) {
   
   digitalWrite(green, HIGH); // Moderate temperatures
+  
   } else {
   
   digitalWrite(red, HIGH); // Warmer temperatures
